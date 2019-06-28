@@ -64,6 +64,7 @@
 9. DOM Events
     - onclick
     - onload
+    - onbeforeunload
     - onunload
     - onmouseover
     - onmouseout

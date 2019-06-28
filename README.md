@@ -17,7 +17,7 @@
     - anonymous function
     - assign function to variable
     - [closure](https://tylermcginnis.com/javascript-visualizer/)
-    - currying function
+    - chaining functions
 4. String and its methods
     - length
     - indexOf()
@@ -74,4 +74,6 @@
     - setTimeout()
     - setInterval()
     - Ajax
-11. Utility methods on Date, Math, location
+11. Utility methods on Date, Math, location, eval, isNaN
+12. Exception handling (try/catch)
+13. Operators (providing the link)

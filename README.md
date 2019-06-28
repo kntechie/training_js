@@ -16,7 +16,7 @@
 3. Functions
     - anonymous function
     - assign function to variable
-    - closure
+    - [closure](https://tylermcginnis.com/javascript-visualizer/)
     - currying function
 4. String and its methods
     - length
